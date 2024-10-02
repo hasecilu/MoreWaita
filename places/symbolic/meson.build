@@ -17,6 +17,7 @@ regular_files = [
     'folder-freecad-symbolic.svg',
     'folder-games-legacy-symbolic.svg',
     'folder-games-symbolic.svg',
+    'folder-gnome-symbolic.svg',
     'folder-git-legacy-symbolic.svg',
     'folder-git-symbolic.svg',
     'folder-github-symbolic.svg',
@@ -119,6 +120,9 @@ link_files = {
     ],
     'folder-codeberg-symbolic.svg': [
         'folder-codeberg-legacy-symbolic.svg',
+    ],
+    'folder-gnome-symbolic.svg': [
+        'folder-gnome-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
