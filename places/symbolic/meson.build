@@ -26,6 +26,7 @@ regular_files = [
     'folder-godot-symbolic.svg',
     'folder-kicad-symbolic.svg',
     'folder-java-symbolic.svg',
+    'folder-kde-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-money-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
@@ -123,6 +124,9 @@ link_files = {
     ],
     'folder-gnome-symbolic.svg': [
         'folder-gnome-legacy-symbolic.svg',
+    ],
+    'folder-kde-symbolic.svg': [
+        'folder-kde-legacy-symbolic.svg',
     ],
     # DO NOT REMOVE: End of link segment
 }
