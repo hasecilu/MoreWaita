@@ -47,6 +47,7 @@ regular_files = [
     'folder-r-symbolic.svg',
     'folder-ruby-symbolic.svg',
     'folder-rust-symbolic.svg',
+    'folder-school-symbolic.svg',
     'folder-syncthing-legacy-symbolic.svg',
     'folder-syncthing-symbolic.svg',
     'folder-temp-symbolic.svg',
@@ -151,6 +152,9 @@ link_files = {
     ],
     'folder-mega-symbolic.svg': [
         'folder-mega-legacy-symbolic.svg',
+    ],
+    'folder-school-symbolic.svg': [
+        'folder-school-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
