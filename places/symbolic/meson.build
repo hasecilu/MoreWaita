@@ -33,6 +33,7 @@ regular_files = [
     'folder-kicad-symbolic.svg',
     'folder-lua-symbolic.svg',
     'folder-money-symbolic.svg',
+    'folder-neovim-symbolic.svg',
     'folder-nextcloud-legacy-symbolic.svg',
     'folder-nextcloud-symbolic.svg',
     'folder-openscad-symbolic.svg',
@@ -139,6 +140,9 @@ link_files = {
     ],
     'folder-inkscape-symbolic.svg': [
         'folder-inkscape-legacy-symbolic.svg',
+    ],
+    'folder-neovim-symbolic.svg': [
+        'folder-neovim-legacy-symbolic.svg',
     ],
     'folder-bitwig-symbolic.svg': [
         'com.bitwig.BitwigStudio.application-bitwig-project-folder-symbolic.svg',
