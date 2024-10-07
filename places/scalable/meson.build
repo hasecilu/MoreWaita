@@ -80,6 +80,8 @@ regular_files = [
     'folder-rust.svg',
     'folder-school-legacy.svg',
     'folder-school.svg',
+    'folder-script-legacy.svg',
+    'folder-script.svg',
     'folder-syncthing-legacy.svg',
     'folder-syncthing.svg',
     'folder-temp-legacy.svg',
