@@ -4,6 +4,8 @@ regular_files = [
     # DO NOT REMOVE: Begining of regular segment
     'folder-appimage-legacy.svg',
     'folder-appimage.svg',
+    'folder-archlinux-legacy.svg',
+    'folder-archlinux.svg',
     'folder-arduino-legacy.svg',
     'folder-arduino.svg',
     'folder-backup-legacy.svg',
