@@ -82,6 +82,8 @@ regular_files = [
     'folder-school.svg',
     'folder-script-legacy.svg',
     'folder-script.svg',
+    'folder-screenshot-legacy.svg',
+    'folder-screenshot.svg',
     'folder-syncthing-legacy.svg',
     'folder-syncthing.svg',
     'folder-temp-legacy.svg',
